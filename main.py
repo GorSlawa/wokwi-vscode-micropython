@@ -13,3 +13,4 @@ while True:
     counter += 1
     print(f"Uptime: {counter} seconds")
     utime.sleep_ms(1000)
+
